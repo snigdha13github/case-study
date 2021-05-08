@@ -1,0 +1,19 @@
+body 
+{
+    background-color: aqua;
+}
+h4
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+}
+img
+{
+    border: 5px solid green;
+    width: 500px;
+}
+#snigdha
+{
+    width: 70px;
+}
